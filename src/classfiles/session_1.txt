@@ -1,0 +1,121 @@
+
+
+Java class :
+5 elements
+
+variables
+methods
+constructors
+instance block
+static block
+
+Naming conventions:
+class: class name should starts with upper case letter and every inner word should starts with upper case letter.
+ex: String, ChromeDriver
+
+variables:
+variable name should start with lower case letter and every inner word should start upper case letter.
+ex:
+age, employeeName
+
+methods:
+method name should start with lower case letter and every inner word should start with upper case letter.
+ex: click(), sendKeys()
+
+package:
+package shoule be in lower case letter.
+ex: java.io, java.lang, suite, resources, pages
+
+constant:
+constant name should be in upper case.
+ex: final PI=3.14
+
+interface: interface name should starts with upper case letter and every inner word should starts with upper case letter.
+ex: WebDriver
+
+Data Types:
+===========
+1. primitive data types (8)
+
+Numeric data types							Non numeric data types
+
+Integral  floating-point data type				char boolean
+
+byte		float
+short		double
+int
+long
+
+				size(in bytes) 	default_value		range
+byte			1 (8-bits)			0				-128 to 127
+short			2 (16-bits)			0
+int				4					0
+long			8					0
+float			4					0.0
+double			8					0.0
+char			2					
+boolean	no size						false			no-range
+
+
+-2^(n-1) to 2^(n-1)-1
+
+
+
+2 Non primitive data types / object/ reference data types
+
+Login obj=new Login();
+
+default value is null
+
+Identifiers:
+=============
+1. identifier name should not start with number. it may start with underscore, doller, alphabets..
+
+int 2abc = 10; //invalid
+int a=20;// valid
+int _age=25;//valid
+int @id=111;//invalid
+
+2. It is not recommended to use predefined class names, method names, interface names as identifier.
+
+Comments:
+
+1. single line comments
+//
+
+2. multi line comments
+
+/*
+--
+--
+---
+*/
+
+====
+Operators:
+1. Arithmetic operators
+
++
+-
+*
+/ -> 
+%
+
+2. Assignment operators
+
+=	+=	-+	*= /= %=
+
+3. Relational operators
+< <= > >= != ==
+
+4. Logical operators
+&& || !
+
+5. Unary operators
+++	--
+========================
+
+Install java 11 version
+Download eclipse ide (2023-06)
+Create Java project
+Practice Data types and Operators
