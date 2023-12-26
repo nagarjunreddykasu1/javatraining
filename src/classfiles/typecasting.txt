@@ -1,0 +1,29 @@
+
+
+Type Casting:
+--------------
+Type casting is the process of converting one data type into another data type.
+
+1. Widening or implicit type casting:
+The process of convering lower data type into higher data type is called widening type casting.
+
+byte -> short -> int -> long -> float -> double
+
+		char
+
+2. Narrowing or explicit type casting
+
+The process of converting higher data type to lower data type is called narrowing type casting.
+
+double -> float -> long -> int -> char -> short -> byte
+
+Variables:
+==============
+syntax:
+[access_modifier] [static] datatype reference_variabe=value;
+
+ex: int a=10;
+
+1. Local Variables
+2. Instance Variables
+3. Static Variables
