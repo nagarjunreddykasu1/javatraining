@@ -1,0 +1,31 @@
+Session-4:
+===========
+1. Write a program to define one instance method and one static method and call those two methods in main method.
+
+2. Write a program to define one instance method and one static method with parameters and call those two methods in main method.
+
+3. Write a program for the following scenarios.
+i. Define two instance methods
+ii. Define one static method and call those two instance methods in this static method
+iii. Call static method inside main method.
+
+4. Write a program to assign the values of local variables of type String to instance variables using 'this' keyword.
+
+5. Write a program for the following scenario.
+i. Define one instance method with return type int.
+ii. Define one static method with return type String.
+iii. Print the returned values from above two methods on the console.
+
+6. Write a program to define one instance method which returns multiplication of given two int parameters and print the returned value on the console.
+
+7. Write a program for the following scenario.
+i. Define one instance method with return type as user defined class object.
+ii. Call the instance members declared in user defined class using returned object.
+
+8. Write a program for the following scenario.
+i. Define one instance method with user defined class object as parameter and call the instance members declared in user defined class using object which is passed as parameter.
+ii. Call the above instance method in main method.
+
+9. Write a program for the following scenario.
+i. Define one static method with user defined class object as parameter and call the instance members declared in user defined class using object which is passed as parameter.
+ii. Call the above static method in main method.
