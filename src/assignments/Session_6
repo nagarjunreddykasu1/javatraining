@@ -1,0 +1,34 @@
+Session_6:
+==========
+Inheritance:
+-------------
+
+1. Write a program for the following scenario.
+ i. Define a parent class with two instance variables and two instance methods.
+ ii. Define a child class with two instance variables and two instance methods.
+ iii. Call all the parent and child class members in main method of child class.
+ 
+2. Write a program for the following scenario.
+ i. Define a parent class with two instance variables and two instance methods.
+ ii. Define a child class with two instance variables and two instance methods.
+ iii. Call all the parent class members by creating object for parent class in main method of child class.
+ 
+3. Write a program for the following scenario.
+ i. Define a parent class with two instance variables and two instance methods.
+ ii. Define a child class with two instance variables and two instance methods.
+ iii. Call all the parent class members by creating object for child class in main method of child class.
+ 
+4. Write a program for the following scenario. (multilevel inheritance)
+i. Define a parent class with two instance variables and two instance methods.
+ii. Define a child class with few instance members by inheriting the properties of above parent class.
+iii. Define another class with few instance members by inheriting the properties of above child class and call all the instance members of all classes in main method.
+
+5. Write a program for the following scenario. (Hierarchical inheritance)
+i. Define a parent class with two instance variables and two instance methods.
+ii. Define two classes with few instance members by inheriting the properties of above parent class and call all the instance members in main method of these two derived classes.
+
+6.Write a program for the following scenario.
+i. Define a parent class with two instance variables.
+ii. Define a child class with two instance variables with same name as parent class and print the values of all variables.
+
+7. 
