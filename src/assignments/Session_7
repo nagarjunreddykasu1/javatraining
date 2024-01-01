@@ -1,0 +1,20 @@
+
+
+Session_7:
+==========
+
+1. Write a program to call parent class variables and methods in child class when the parent and child class variable & method names are same.
+
+2. Write a program to call parent class parameterized constructor in child class.
+
+3. Write a program to overload a method with different number of parameters.
+
+4. Write a program to overload a method with different data type of parameters.(here, number of parameters should be same)
+
+5. Write a program to overload a method with sequence of different data types as parameters.
+
+6. Write a program to demonstrate primitive type promotion.
+
+7. Write a program to override a method and call both overridden method and overriding method.
+
+8. Write a program to override a method with increasing the scope of overridden method.

@@ -27,8 +27,34 @@ iii. Define another class with few instance members by inheriting the properties
 i. Define a parent class with two instance variables and two instance methods.
 ii. Define two classes with few instance members by inheriting the properties of above parent class and call all the instance members in main method of these two derived classes.
 
+class Parent{
+ int a=10, b=20;
+ 
+ void display(){
+ 
+ }
+ 
+ void show(){
+ }
+
+}
+
+class Child1 extends Parent{
+int c=20, d=40;
+
+
+main(){
+
+
+}
+}
+
+class Child2 extends Parent{
+
+}
+
+
+
 6.Write a program for the following scenario.
 i. Define a parent class with two instance variables.
 ii. Define a child class with two instance variables with same name as parent class and print the values of all variables.
-
-7. 
