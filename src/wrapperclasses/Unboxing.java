@@ -5,7 +5,7 @@ public class Unboxing {
 	public static void main(String[] args) {
 		
 		
-		Integer in=new Integer(100);
+		Integer in=new Integer("");
 		
 		int i=in.intValue();
 		

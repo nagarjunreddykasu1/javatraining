@@ -18,8 +18,7 @@ i. Create an interface with two variables and two abstract methods
 ii. Implement the above interface and also add one instance variable & method in the class
 iii. Call all the possible variables and methods in main method using interface reference.
 
-5. Write a program to convert all primitive type of values into its corresponding wrapper class object and print the object values on the console and 
-then convert all wrapper class objects into its corresponding primitive type and print primitive type of values on the console.
+5. Write a program to convert all primitive type of values into its corresponding wrapper class object and print the object values on the console.
 
 6. Write a program to print only even numbers from the integer array.
 
