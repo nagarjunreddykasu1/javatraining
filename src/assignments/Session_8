@@ -1,0 +1,28 @@
+Session_8:
+==========
+
+1. Write a program for the following scenario.
+i. Create an abstract class with two abstract methods
+ii. Implement the above abstract methods in the class.
+iii. Call all the methods using abstract class reference.
+
+2. Write a program to demonstrate encapsulation using getters and setters.
+
+3. Write a program for the following scenario.
+i. Create an interface with two variables and two abstract methods
+ii. Implement the above interface and also add one instance variable & method in the class
+iii. Call all the variables and methods in main method using class reference.
+
+4. Write a program for the following scenario.
+i. Create an interface with two variables and two abstract methods
+ii. Implement the above interface and also add one instance variable & method in the class
+iii. Call all the possible variables and methods in main method using interface reference.
+
+5. Write a program to convert all primitive type of values into its corresponding wrapper class object and print the object values on the console and 
+then convert all wrapper class objects into its corresponding primitive type and print primitive type of values on the console.
+
+6. Write a program to print only even numbers from the integer array.
+
+7. Write a program to print minimum and maximum number from the integer array.
+
+
