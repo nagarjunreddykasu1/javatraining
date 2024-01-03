@@ -14,8 +14,12 @@ public class ArraysDemo {
 		
 		
 		  //To print values System.out.println("*** Using for loop ****"); 
-		for(int i=0;i<arr.length;i++) { 
-			System.out.println(arr[i]);
+		for(int i=0;i<arr.length;i++) {
+			
+			if(arr[i]%2==0) {
+				System.out.println(arr[i]);
+			}
+			
 		}
 		 
 		
@@ -23,6 +27,20 @@ public class ArraysDemo {
 		for(int j:arr) {
 			System.out.println(j);
 		}
+		
+		int min=arr[0], max=arr[0];
+		for(int i=0;i<arr.length;i++) {
+			if(arr[i]<min) {
+				min=arr[i];
+			}
+			
+			if(arr[i]>max) {
+				max=arr[i];
+			}
+		}
+		
+		System.out.println("Minimum number: "+min);
+		System.out.println("Maximum number: "+max);
 		
 		
 	}
@@ -57,7 +75,7 @@ We can store both primitive type of values and objects.
 
 
 2. Multi Dimensional array
-
+Multidimensional array is an array of arrays.
 
 
 
