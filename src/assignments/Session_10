@@ -2,7 +2,8 @@
 String:
 ======
 
-1. Write a program to print the given string in reverse order.
+1. Write a program to print the given string in reverse order. (Note: use charAt() method)
+String company="XTGLOBAL";
 
 2. Write a program for the following scenario.
 String companyName="XTGLOBAL INFOTECH LIMITED";
@@ -10,5 +11,20 @@ i. Print the total number of characters in the string
 ii. Combine two strings and print it on the console.
 iii. Print the character at the index 3.
 
+3. Write a program to remove all special characters in the string.
+String value="10:35:40 12-20-1234"
+output: 10354012201234
+
 3. Write a program to split the string with comma separator and print all string elements on the console.
 String countries="India,South Africa,Australia,China,Pakistan,USA";
+
+4. Write a program to retrieve the numbers from the given string and print them on the console.
+String message="There are only 3 items available which costs Rs.200/- each.
+output:
+3
+200
+
+5. Write a program to print each word in the given string in reverse order.
+String message="India is my country";
+output: aidnI si ym yrtnuoc 
+
