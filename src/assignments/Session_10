@@ -1,6 +1,6 @@
 
 String:
-======
+========
 
 1. Write a program to print the given string in reverse order. (Note: use charAt() method)
 String company="XTGLOBAL";

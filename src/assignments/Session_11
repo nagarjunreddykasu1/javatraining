@@ -1,0 +1,13 @@
+
+
+Exception Handling:
+=====================
+1. Write a program to handle IndexOutOfBound exception and print the exception message with all possible ways on the console.
+
+2. Write a program to declare checked exception.
+
+3. Write a program to demonstrate try-catch-finally blocks.
+
+4. Write a program to define custom exception and print it on the console.
+
+5. Write a program to handle the exception by declaring multiple exceptions in single catch block.
