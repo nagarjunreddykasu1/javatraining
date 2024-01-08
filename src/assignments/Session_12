@@ -1,0 +1,43 @@
+Session_12:
+===============
+
+Collection Framework:
+
+ArrayList:
+----------
+1. Write a program for the following scenario.
+i. add 5 sting objects into ArrayList
+ii. remove any one object using name or index
+iii. update any object.
+
+2. Write a program to add all objects of one ArrayList into another ArrayList.
+
+3. Write a program for the following scenario.
+i. print the index number of any object.
+ii. print the object name of any index.
+iii. print the count of objects.
+
+4. Write a program to print some portion (index from 3 to 6) of objects from the ArrayList.
+
+5. Write a program to print duplicate objects from the ArrayList.
+
+6. Write a program to add used defined class objects into ArrayList and retrieve the object data and print on the console.
+
+7. Write a program to define a method to compare two ArrayLists which contain string objects and return the unmatched objects from that method.
+
+=================================================================================================================
+
+8. Write a program to retrieve the string objects from the ArrayList using all possible ways. (Hint: use for, for each, Iterator, ListIterator)
+
+9. Write a program to store few string objects in ArrayList and perform following actions using ListIterator.
+i. add one string object.
+ii. update one string object.
+iii. remove one string object.
+iv. print all the objects of ArrayList using for loop and Iterator.
+
+10. Write a program to sort the string objects in ascending and descending order and print them on the console.
+
+11. Write a program to convert string to ArrayList and print all the objects on the console using Iterator.
+String currencies="INR, USD, EUR, GBP, CAD, BDT, SGD, OMR, CNY";
+
+12. Write a program to convert string array to ArrayList.
