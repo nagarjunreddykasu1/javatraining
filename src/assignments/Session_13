@@ -1,0 +1,29 @@
+
+Session_13:
+=============
+ArrayList, LinkedList, Vector:
+------------------------------
+
+1. Write a program to retrieve the string objects from the ArrayList using all possible ways. (Hint: use for, for each, Iterator, ListIterator)
+
+2. Write a program to store few string objects in ArrayList and perform following actions using ListIterator.
+i. add one string object.
+ii. update one string object.
+iii. remove one string object.
+iv. print all the objects of ArrayList using for loop and Iterator.
+
+3. Write a program to sort the string objects in ascending and descending order and print them on the console.
+
+4. Write a program to convert string to ArrayList and print all the objects on the console using Iterator.
+String currencies="INR, USD, EUR, GBP, CAD, BDT, SGD, OMR, CNY";
+
+5. Write a program to convert string array to ArrayList.
+
+6. Write a program to define a method to compare two ArrayLists which contain string objects and return the unmatched objects from that method. (Note: Use Iterator)
+
+7. Write a program for the following scenario.
+i. add 5 sting objects into LinkedList
+ii. remove any one object using name or index
+iii. update any object.
+
+8. Write a program to add string objects into LinkedList and print all the objects on the console using all possible ways (for, for each, Iterator, ListIterator).

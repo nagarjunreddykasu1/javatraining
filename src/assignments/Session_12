@@ -21,23 +21,7 @@ iii. print the count of objects.
 
 5. Write a program to print duplicate objects from the ArrayList.
 
-6. Write a program to add used defined class objects into ArrayList and retrieve the object data and print on the console.
+6. Write a program to add user defined class objects into ArrayList and retrieve the object data and print on the console.
 
 7. Write a program to define a method to compare two ArrayLists which contain string objects and return the unmatched objects from that method.
 
-=================================================================================================================
-
-8. Write a program to retrieve the string objects from the ArrayList using all possible ways. (Hint: use for, for each, Iterator, ListIterator)
-
-9. Write a program to store few string objects in ArrayList and perform following actions using ListIterator.
-i. add one string object.
-ii. update one string object.
-iii. remove one string object.
-iv. print all the objects of ArrayList using for loop and Iterator.
-
-10. Write a program to sort the string objects in ascending and descending order and print them on the console.
-
-11. Write a program to convert string to ArrayList and print all the objects on the console using Iterator.
-String currencies="INR, USD, EUR, GBP, CAD, BDT, SGD, OMR, CNY";
-
-12. Write a program to convert string array to ArrayList.
