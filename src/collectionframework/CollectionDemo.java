@@ -25,11 +25,11 @@ Collections can hold only objects but not primitives.
 List(i)																								Set(i)
 
 
-ArrayList(c) CopyOnWriteArrayList(c) LinkedList)c)		Vector(c)
-														
-														Stack(c)
-
-
+ArrayList(c) CopyOnWriteArrayList(c) LinkedList)c)		Vector(c)							HashSet(c)	  				SortedSet(i)
+																	
+														Stack(c)							LinkedHashSet(c)			NavigableSet(i)
+	
+																														TreeSet(c)
 
 ArrayList:
 ==========

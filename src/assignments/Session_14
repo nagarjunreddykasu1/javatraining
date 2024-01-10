@@ -1,0 +1,33 @@
+Session_14:
+===========
+
+1. Write a program for the following scenario using LinkedList.
+i. add one string object at first position.
+ii. add one string object at last position.
+iii. add one string object at 3rd position.
+iv. delete one object from the LinkedList.
+v. print the object at 5th position.
+vi. update the object at 4th index.
+
+2. Write a program to copy one collection objects into LinkedList.
+
+3. Write a program to add few string objects in Vector and print all the objects on the console using all possible ways. 
+(Hint: Use for loop, for each loop, Enumeration, Iterator, ListIterator)
+
+4. Write a program to copy one collection objects into Vector.
+
+Set interface:
+==============
+5. Write a program to add 8 string objects into HashSet and print all the objects on the console using all possible ways.
+
+6. Write a program to copy one collection objects into HashSet.
+
+7. Write a program to add 8 string objects into LinkedHashSet and print all the objects on the console using all possible ways.
+
+8. Write a program to print duplicate numbers from integer array.
+eg: int[] intArr= {4,3,2,5,4,3,5,4,10,11,2,1,13};
+output: Duplicate numbers: [4, 3, 2, 5]
+
+9. Write a program to print non-repetitive numbers from integer array.
+eg: int[] intArr= {4,3,2,5,4,3,5,4,10,11,2,1,13};
+output: Single Numbers=[10,11,1,13]
