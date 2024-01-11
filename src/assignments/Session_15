@@ -1,0 +1,22 @@
+Session_15:
+=============
+
+1. Write a program for the following scenario.
+i. add 5 entries with String key and String value into HashMap
+ii. print any value of entry.
+iii. delete one entry.
+iv. update the value of any entry.
+
+2. Write a program to print all the keys, values and entries of HashMap on the console.
+
+3. Write a program to retrieve the entries using all possible ways. (Note: Use for each and Iterator)
+
+4. Write a program to add one HashMap entries into another HashMap.
+
+5. Write a program for the following scenario.
+i. verify whether all the keys are equal or not.
+ii. verify whether all the values are equal or not.
+iii. verify whether all the entries are equal or not.
+
+6. Write a program to compare two HashMap entries using Iterator and print unmatched entries on the console.
+(Note: define common method to compare two HashMaps like ArrayLists comparison)

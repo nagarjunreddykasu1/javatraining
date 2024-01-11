@@ -1,6 +1,7 @@
 package collectionframework;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class ArrayList14 {
@@ -43,14 +44,18 @@ public class ArrayList14 {
 		
 		List<Integer> singleNumbersList = new ArrayList<>();
 
-        for (int number : intArr) {
-            if (!singleNumbersList.contains(number)) {
-                singleNumbersList.add(number);
-            } else {
-                singleNumbersList.remove(Integer.valueOf(number));
-            }
-        }
+		/*
+		 * for (int number : intArr) { if (!singleNumbersList.contains(number)) {
+		 * singleNumbersList.add(number); } else {
+		 * singleNumbersList.remove(Integer.valueOf(number)); } }
+		 */
         
+		Arrays.sort(intArr);
+		for(int i=0;i<intArr.length;i++) {
+			if(i==0 || intArr[i] != intArr[i-1]) {
+				singleNumbersList.add(intArr[i]);
+			}
+		}
 		System.out.println("Duplicate numbers: "+duplicate);
 		System.out.println("Single numbers: "+singleNumbersList);
 		
