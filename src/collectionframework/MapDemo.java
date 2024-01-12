@@ -51,7 +51,7 @@ LinkedHashMap(c)									NavigableMap(i)					Properties(c)
 
 
 
-Each key and value pair combination is called Entry.
+Each key and value pair/combination is called Entry.
 
 Duplicate keys are NOT allowed.
 
@@ -59,11 +59,11 @@ HashMap:
 
 HashMap does not allow duplicate keys but values can be duplicated.
 
-HashMap allows only null key and multiple null values.
+HashMap allows only one null key and multiple null values.
 
 Insertion order is NOT preserved.
 
-Datastructure is Hashtable.
+Data structure is Hashtable.
 
 HashMap is NOT synchronized. it is not thread safe.
 

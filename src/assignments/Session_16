@@ -1,0 +1,22 @@
+Session_16:
+==============
+
+1. Write a program for the following scenario.
+i. add 5 entries with String key and String value into LinkedHashMap
+ii. print any value of entry.
+iii. delete one entry.
+iv. update the value of any entry.
+
+2. Write a program to print all the keys, values and entries of LinkedHashMap on the console.
+
+3. Write a program to retrieve the entries of LinkedHashMap using all possible ways. (Note: Use for each and Iterator)
+
+4. Write a program to add one LinkedHashMap entries into another LinkedHashMap.
+
+5. Write a program to retrieve all the keys, values and entries of TreeMap.
+
+6. Write a program to delete first and last entry of TreeMap and then print the key and values of deleted entries.
+
+7. Write a program to retrieve all the keys, values and entries of Hashtable using all possible ways.
+
+8. Write a program to retrieve the data from .properties file.
