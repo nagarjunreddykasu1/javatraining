@@ -1,0 +1,12 @@
+Session_17:
+===========
+
+1. Write a program to print square value of given number using lamda expression.
+
+2. Write a program to sort list of strings in ascending order using lambda expression.
+
+3. Write a program to print only even numbers from ArrayList using lambda expression.
+
+4. Write a program to convert int array to list and print only the even numbers using stream and filter methods. 
+
+5. Write a program to define a common method to compare two lists of string type using streams and print unmatched objects on the console.
